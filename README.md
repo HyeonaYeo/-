@@ -40,3 +40,4 @@
 
 광고 배너 이미지 삽입 가능
 
+![7](https://user-images.githubusercontent.com/30343718/45561031-b7475f00-b881-11e8-9068-39d819cb499b.png)
